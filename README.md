@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TomNookbg12
-- 👀 I’m interested in Vw Transporters
-- 🌱 I’m currently learning Java, JavaScript and Python
+
 
 
 <!---
